@@ -19,22 +19,35 @@ text-align: center;
 padding: 4px;
 
 
+
 }
+
+
+
+
+
+h3 {
+
+    text-align: center;
+}
+
 
 .parrafo1 {
 
-    text-align: center;
-    margin-left: 90px;
-    margin-right: 90px;
-}
-
-.fila1 {   
-
-margin-bottom: 40px;
-margin-left: 40px;
+text-align: justify;
 
 
 }
+
+.parrafo2 {
+
+font-size: 30px;
+
+}
+
+
+
+
 
 .chicaes {
 
@@ -62,3 +75,9 @@ p {
 
 }
 
+
+ a {
+
+color: black;
+
+}
